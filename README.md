@@ -1,7 +1,7 @@
 # iOS
 cour iOS
 
-https://swiftlang.ng.bluemix.net/#/repl/581c7531b2e9b157d8c9b89b
+http://swiftlang.ng.bluemix.net/#/repl/5821b7cbbe1f3f272165e091
 
 
 //Challenge A
